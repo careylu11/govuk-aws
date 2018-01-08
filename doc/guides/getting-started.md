@@ -9,9 +9,7 @@ Use this guide to help you get started when working on this repository.
 Install [Terraform](https://terraform.io) by either:
 
  - Downloading the binary [found here](https://www.terraform.io/downloads.html).
- - Using [Homebrew](https://brew.sh/)
-
-If you use Homebrew you may consider using [chtf](https://github.com/Yleisradio/homebrew-terraforms).
+ - Using [tfenv](https://github.com/kamatama41/tfenv)
 
 #### Data
 
